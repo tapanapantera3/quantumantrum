@@ -1,4 +1,4 @@
- sudo mkdir -p /usr/local/bin
+</div> input type="password" classe "form- Control " id="exampleinputpassword placeholder" "password" sudo mkdir -p /usr/local/bin
 Onde passo está o futuro 
 sudo apt-get install -y build-essential git wget unzip
 git clone https://github.com/eth-sri/silq.git # clone the repository
