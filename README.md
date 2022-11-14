@@ -1,4 +1,4 @@
-# quantumantrum
+ erroneous # quantumantrum
 Onde passo está o futuro 
 sudo apt-get install -y build-essential git wget unzip
 git clone https://github.com/eth-sri/silq.git # clone the repository
