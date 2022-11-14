@@ -1,4 +1,6 @@
-
+ sudo mkdir -p /usr/local/bin
+Onde passo está o futuro 
+sudo apt-get install -y build-essential git wget unzip
 git clone https://github.com/eth-sri/silq.git # clone the repository
 cd silq && ./dependencies.sh && ./build.sh # download dependencies and build project
 # [ignore compilation warnings]
